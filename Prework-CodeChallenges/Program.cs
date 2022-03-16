@@ -8,7 +8,8 @@ namespace Prework_CodeChallenges
         {
             Console.WriteLine("Hello World!");
             //ArrayMaxResult(); 
-            LeapYearCalculator();
+           // LeapYearCalculator();
+            PerfectSequence();
         }
 
         static void ArrayMaxResult()
@@ -37,6 +38,18 @@ namespace Prework_CodeChallenges
             int Year = int.Parse(Console.ReadLine());
             if (((Year % 4 == 0) && (Year % 100 != 0)) || (Year % 400 == 0)) Console.WriteLine($"{Year} is a Leap Year.");
             else Console.WriteLine($"{Year} is not a Leap Year.");
+        }
+       static void PerfectSequence()
+        {
+            int[] seq = new int[3];
+            Console.WriteLine("Please input 3 numbers");
+            for (int i = 0; i < seq.Length; i++)
+            {
+                seq[i] = Convert.ToInt32(Console.ReadLine());
+
+            }
+            if (seq[0] + seq[1] + seq[2] == seq[0] * seq[1] * seq[2]) Console.WriteLine("Yes");
+            else Console.WriteLine("No");
         }
     }
 
