@@ -27,3 +27,14 @@
 
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/98964675/158633865-3839600d-c7e2-447e-a0cc-93193384a4f3.png)
+
+## Problem 4: Sum of Rows
+
+1. Declare a 2d Array
+2. Tell user to input number of Rows and Columns
+3. Loop to fill an array
+4. loop to print a matrix
+5. loop to some rows
+6. loop to show a result of the sum
+
+![Screenshot (33)](https://user-images.githubusercontent.com/98964675/158655256-0a1f7aa7-9bb4-48ea-9f8f-1b7e0903637b.png)
