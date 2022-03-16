@@ -7,10 +7,10 @@ namespace Prework_CodeChallenges
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //ArrayMaxResult(); 
-            // LeapYearCalculator();
-            //  PerfectSequence();
-            SumofRows();
+             ArrayMaxResult(); 
+             LeapYearCalculator();
+             PerfectSequence();
+             SumofRows();
         }
 
         static void ArrayMaxResult()
