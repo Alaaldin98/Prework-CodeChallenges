@@ -10,3 +10,12 @@
 6. Output the “score” of the number chosen.
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/98964675/158617111-ff263ade-c9a3-4be1-a01a-7cc04f402b46.png)
+
+## Problem 2: Leap Year Calculator
+
+1. Tell user to input year
+2. Use if conditional to test year if leap or not
+3. Show user the result 
+
+![Screenshot (31)](https://user-images.githubusercontent.com/98964675/158626828-ae197794-c9dd-4583-9a1a-4b5b250963d5.png)
+
