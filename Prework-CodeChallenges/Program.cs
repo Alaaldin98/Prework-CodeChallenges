@@ -35,11 +35,11 @@ namespace Prework_CodeChallenges
             Console.WriteLine("is your array, now select a number from the array!");
 
             //store the inputted value into a
-            int a = Convert.ToInt32(Console.ReadLine());
-          if (a%2 == 0)   
+            int val = Convert.ToInt32(Console.ReadLine());
+          if (val%2 == 0)   
 
-            Console.WriteLine($"Your computated score is: {a*2} ");
-         else   Console.WriteLine($"Your computated score is: {a} ");
+            Console.WriteLine($"Your computated score is: {val*2} ");
+         else   Console.WriteLine($"Your computated score is: {val} ");
         }
     }
 
