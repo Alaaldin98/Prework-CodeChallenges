@@ -19,3 +19,11 @@
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/98964675/158626828-ae197794-c9dd-4583-9a1a-4b5b250963d5.png)
 
+## Problem 3: Perfect Sequence
+
+1. Tell user to input 3 Num
+2. test if Numbers perfect sequence or not
+3. print yes or no
+
+
+![Screenshot (32)](https://user-images.githubusercontent.com/98964675/158633865-3839600d-c7e2-447e-a0cc-93193384a4f3.png)
